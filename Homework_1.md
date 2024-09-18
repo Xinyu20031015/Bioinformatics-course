@@ -12,9 +12,9 @@
 - Question, Information, Analysis, Modeling *or Information, Analysis, Modeling, Question*
 
 2. NGS Data Analysis
-- Sequencing method
-- Bioinformatics tool
-- Interpreting the data
+- Sequencing method *(RNA seq)*
+- Bioinformatics tool *(Different RNA variations need different tools)*
+- Interpreting the data *(Cell types, Gene signature)s*
 3. Modeling
 - Machine learning models
 - Regression model: Lenear to logistic model
@@ -33,7 +33,7 @@
 1. 课堂
    - 听讲
    - 笔记
-2. 课后
+2. 课后 (每周)
    - 教材阅读及跟随操作*1h*
    - 作业完成*1~2h*
    - 笔记整理*0.5h*
