@@ -8,17 +8,18 @@
 
 ### Introduction
 1. Four main steps of bioinformatics researches：
+  - Question, Information, Analysis, Modeling *or Information, Analysis, Modeling, Question*
 
-- Question, Information, Analysis, Modeling *or Information, Analysis, Modeling, Question*
 2. NGS Data Analysis
 - Sequencing method *(RNA seq)*
 - Bioinformatics tool *(Different RNA variations need different tools)*
 - Interpreting the data *(Cell types, Gene signatures)*
+   
 3. Modeling
 - Machine learning models
 - Regression model: Lenear to logistic model
   
-  <mark>The difference between **model** and **algorithm**</mark>:
+  <mark>The difference between model and algorithm</mark>:
 
   - Model: Using different methods to train a model which can forecast some similar situation. The exact manner of prediction may be unknown.
   - Algorithm: Performing some task using a specifically known program to get a deterministic result.
