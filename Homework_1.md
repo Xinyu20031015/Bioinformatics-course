@@ -19,7 +19,7 @@
 - Machine learning models
 - Regression model: Lenear to logistic model
   
-  <mark>The difference between **model** and **algorithm** </mark>:
+  <mark>The difference between model and algorithm </mark>:
 
   - Model: Using different methods to train a model which can forecast some similar situation. The exact manner of prediction may be unknown.
   - Algorithm: Performing some task using a specifically known program to get a deterministic result.
