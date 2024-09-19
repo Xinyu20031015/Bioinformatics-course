@@ -10,11 +10,10 @@
 1. Four main steps of bioinformatics researches：
 
 - Question, Information, Analysis, Modeling *or Information, Analysis, Modeling, Question*
-
 2. NGS Data Analysis
 - Sequencing method *(RNA seq)*
 - Bioinformatics tool *(Different RNA variations need different tools)*
-- Interpreting the data *(Cell types, Gene signature)s*
+- Interpreting the data *(Cell types, Gene signatures)*
 3. Modeling
 - Machine learning models
 - Regression model: Lenear to logistic model
